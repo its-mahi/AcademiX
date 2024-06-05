@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
   
   <body>
       <div class="container">
-          <a href="https://studynotion-edtech-project.vercel.app"><img class="logo" src="https://res.cloudinary.com/dloyjfj9t/image/upload/v1717507767/Blue_and_White_Simple_Professional_Education_Logo_ommltl.png"
+          <a href="https://theacademix.vercel.app"><img class="logo" src="https://res.cloudinary.com/dloyjfj9t/image/upload/v1717507767/Blue_and_White_Simple_Professional_Education_Logo_ommltl.png"
                   alt="AcademiX Logo"></a>
           <div class="message">Course Registration Confirmation</div>
           <div class="body">
@@ -76,7 +76,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                   are excited to have you as a participant!</p>
               <p>Please log in to your learning dashboard to access the course materials and start your learning journey.
               </p>
-              <a class="cta" href="https://studynotion-edtech-project.vercel.app/dashboard">Go to Dashboard</a>
+              <a class="cta" href="https://theacademix.vercel.app/dashboard">Go to Dashboard</a>
           </div>
           <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
                   href="mailto:info@academix.com">info@academix.com</a>. We are here to help!</div>
