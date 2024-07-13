@@ -39,6 +39,28 @@ For a live demo, check out our deployed version: [AcademiX](https://theacademix.
 - **Comprehensive Authentication**: OTP, reset password, forgot password functionalities.
 - **Email Notifications**: Automated emails for confirmations, OTPs, and more.
 
+## Glimps of AcademiX :)
+
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/home.png" alt="Home Page" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+    <td>
+      <img src="screenshots/course.png" alt="Course Page" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshots/mycourse.png" alt="My Courses" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+    <td>
+      <img src="screenshots/profile.png" alt="User Profile" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+  </tr>
+</table>
+
+
 ## 📚 Learning Outcomes
 
 By working on AcademiX, I gained hands-on experience with:
