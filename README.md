@@ -30,6 +30,12 @@ Our platform is not just about learning. it’s about making education affordabl
 For a live demo, check out our deployed version: [AcademiX](https://theacademix.vercel.app/).
 
 
+## ✨ Contributors
+
+- [Mahipal Suchar](https://github.com/its-mahi/)
+- [Laxita Sojitra](https://github.com/laxitasojitra/)
+
+
 ## 🌟 Features
 
 - **Expert-Led Courses**: Learn from the best in the industry.
